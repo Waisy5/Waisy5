@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Waisy5
 - 👀 I’m interested in Web Development, DevOps & SUpport
 - 🌱 I’m currently learning Html, CSS, Python, React, Kubernetes & Azure
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @ iwaison@gmail.com
 
 <!---
